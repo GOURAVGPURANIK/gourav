@@ -1,2 +1,0 @@
-# gourav
-MY FIRST REPOSITORY
